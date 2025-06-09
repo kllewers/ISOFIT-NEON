@@ -54,4 +54,4 @@ for _line in range(radiance.shape[0]):
     if _line % 100 == 0:
         print(f'{_line}/{radiance.shape[0]}')
 
-print("Done writing .rad file!")
+print("Done writing .rad file!") 
